@@ -29,4 +29,4 @@ cmake -GNinja \
   -DTEST_SUITE_RUN_TYPE="$RUN_TYPE"
 
 cd "$BUILD_ROOT"
-ninja -j"$NINJA_JOBS" External/SPEC/all
+ninja -j"$NINJA_JOBS" External/SPEC/all 2>&1 | tee build.log

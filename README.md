@@ -16,7 +16,7 @@ This repository contains infrastructure to build and run **GVN-related benchmark
 
 ```bash
 # Clone this repository
-git clone <this-repo>
+git clone https://github.com/ManuelJBrito/bench-infra
 cd bench-infra
 
 # Get the LLVM test-suite
