@@ -1,0 +1,3 @@
+{
+    "FLAGS": "-mllvm -enable-newgvn=true"
+}

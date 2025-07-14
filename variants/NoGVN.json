@@ -1,0 +1,3 @@
+{
+    "FLAGS": "-mllvm -skip-gvn=true"
+}
