@@ -58,7 +58,6 @@ chmod +x ./scripts/build_variant.sh
 After building a variant:
 
 ```bash
-chmod +x ./scripts/run_variant.sh
 ./scripts/run_variant.sh O2
 ```
 
